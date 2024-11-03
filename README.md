@@ -3,8 +3,8 @@
 Welcome to my Github page! </br> I'm Finn Cheng.
 
 - 🧑🏻‍💻 I am an enthusiastic junior software engineer on the journey of continued growth and improvement.
-- :man_technologist: I currently work as a Full-stack Software Developer at the [Justice Institute of British Columbia](https://www.jibc.ca/). Previously, I had one year software engineer coop experience at [MacroHealth Canada](https://macrohealth.com/).
-- 👨‍🎓 I obtained a Bachelor of Computer Science degree from UBC. Before pivoting into computer science and coding, I was a lawyer in China with a Bachelor of Laws degree from the University of International Business and Economics(UIBE) in Beijing, China.
+- :man_technologist: I currently work as a Full-stack Software Developer at the [Justice Institute of British Columbia](https://www.jibc.ca/). Previously, I had one year of software engineer coop experience at [MacroHealth Canada](https://macrohealth.com/).
+- 👨‍🎓 I obtained a Bachelor of Computer Science degree from UBC. Before pivoting into computer science and coding, I acquired a Bachelor of Laws degree from the University of International Business and Economics(UIBE) in Beijing and passed the bar exam in China.
 - Pronoun: He/Him
 
 <h3>Languages I am most confident in</h3>
