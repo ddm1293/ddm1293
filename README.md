@@ -1,6 +1,6 @@
 <h1>Hello there!😉</h1>
 
-Welcome to my Github page! </br> I'm Cheng.
+Welcome to my Github page! </br> I'm Finn Cheng.
 
 - 🧑🏻‍💻 I am an enthusiastic junior software engineer on the journey of continued growth and improvement.
 - :man_technologist: I currently work as a Full-stack Software Developer at the [Justice Institute of British Columbia](https://www.jibc.ca/). Previously, I had one year software engineer coop experience at [MacroHealth Canada](https://macrohealth.com/).
