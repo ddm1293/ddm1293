@@ -92,7 +92,7 @@ Welcome to my Github page! </br> I'm Finn Cheng.
         <ul>
           <li>Platform for tracking and reviewing LeetCode questions</li>
           <li>Completely AWS-powered backend using AWS CDK and a serverless MVC architecture</li>
-          <li>Achieved dependency injection with [Inversify](https://github.com/inversify/InversifyJS)</li>
+          <li>Achieved dependency injection with <a href="https://github.com/inversify/InversifyJS">Inversify</a></li>
           <li>Optimized single-table design in DynamoDB for efficient data management</li>
           <li>Chrome extension for seamless, automated tracking of LeetCode submissions</li>
         </ul>
