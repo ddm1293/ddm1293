@@ -3,7 +3,7 @@
 Welcome to my Github page! </br> I'm Cheng.
 
 - 🧑🏻‍💻 I am an enthusiastic junior software engineer on the journey of continued growth and improvement.
-- :man_technologist: I currently work as a Full-stack Software Developer at the [Justice Institute of British Columbia](https://www.jibc.ca/).
+- :man_technologist: I currently work as a Full-stack Software Developer at the [Justice Institute of British Columbia](https://www.jibc.ca/). Previously, I had one year software engineer coop experience at [MacroHealth Canada](https://macrohealth.com/).
 - 👨‍🎓 I obtained a Bachelor of Computer Science degree from UBC. Before pivoting into computer science and coding, I was a lawyer in China with a Bachelor of Laws degree from the University of International Business and Economics(UIBE) in Beijing, China.
 - Pronoun: He/Him
 
@@ -63,7 +63,7 @@ Welcome to my Github page! </br> I'm Cheng.
   </thead>
   <tbody>
     <tr>
-      <td><a href="https://chatitout.jibc.ca/"><b>ChatItOut</b></a></td> 
+      <td><b>ChatItOut</b><br><a href="https://chatitout.jibc.ca/">(demo)</a></td>
       <td>
           <img alt="React" src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
           <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
