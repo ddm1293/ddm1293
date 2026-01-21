@@ -3,7 +3,7 @@
 Welcome to my Github page! </br> I'm Finn Cheng.
 
 - 🧑🏻‍💻 I am an enthusiastic junior software engineer on the journey of continued growth and improvement.
-- :man_technologist: I currently work as a Full-stack Software Developer at the [Justice Institute of British Columbia](https://www.jibc.ca/). Previously, I had one year of software engineer coop experience at [MacroHealth Canada](https://macrohealth.com/).
+- :man_technologist: I worked as Data Platform Software Engineer at Kinaxis. Before it, I worked as a Full-stack Software Developer at the [Justice Institute of British Columbia](https://www.jibc.ca/). I had software engineer coop experience at [MacroHealth Canada](https://macrohealth.com/).
 - 👨‍🎓 I obtained a Bachelor of Computer Science degree from UBC. Before pivoting into computer science and coding, I acquired a Bachelor of Laws degree from the University of International Business and Economics(UIBE) in Beijing and passed the bar exam in China.
 - Pronoun: He/Him
 
@@ -91,11 +91,10 @@ Welcome to my Github page! </br> I'm Finn Cheng.
       </td>
       <td>
         <ul>
-          <li>Platform for tracking and reviewing LeetCode questions</li>
-          <li>Completely AWS-powered backend using AWS CDK and a serverless MVC architecture</li>
-          <li>Achieved dependency injection with <a href="https://github.com/inversify/InversifyJS">Inversify</a></li>
-          <li>Optimized single-table design in DynamoDB for efficient data management</li>
-          <li>Chrome extension for seamless, automated tracking of LeetCode submissions</li>
+          <li>Developed <strong>LeetReCode</strong>, a comprehensive algorithm mastery platform powered by the <strong>FSRS spaced repetition algorithm</strong> to optimize memory retention</li>
+          <li>Engineered a robust RESTful backend using <strong>Java Spring Boot</strong> on <strong>AWS</strong>, managing complex scheduling logic and data persistence</li>
+          <li>Built a responsive, server-side rendered user interface using <strong>Next.js</strong> to visualize learning progress and coding history</li>
+          <li>Implemented a <strong>Plasmo-based (TypeScript)</strong> Chrome extension to seamlessly intercept and synchronize live LeetCode submissions</li>
         </ul>
       </td>
     </tr>
