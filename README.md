@@ -10,21 +10,20 @@ Welcome to my Github page! </br> I'm Finn Cheng.
 <h3>Languages I am most confident in</h3>
 <p>
   <img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
+  <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /> 
   <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=black" />
   <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /> 
-  <img alt="Scala" src="https://img.shields.io/badge/Scala-DC322F?style=for-the-badge&logo=scala&logoColor=white" /> 
 </p>
 
 
 <h3>Frameworks/Tools I work with</h3>
 <p>
   <!-- Backend Frameworks -->
-  <img alt="Spring" src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />
-  <img alt="Spring Boot" src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />
-  <img alt="NodeJS" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
-  <img alt="Express" src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge" />
-  <img alt="Flask" src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
+  <img alt="Spring Boot" src=https://img.shields.io/badge/Spring%20Boot-6DB33F?logo=springboot&logoColor=fff />
+  <img alt="NodeJS" src=https://img.shields.io/badge/Node.js-6DA55F?logo=node.js&logoColor=white />
+  <img alt="Databricks" src=https://img.shields.io/badge/Databricks-FF3621?logo=databricks&logoColor=fff />
+  <img alt="Express" src=https://img.shields.io/badge/Express.js-%23404d59.svg?logo=express&logoColor=%2361DAFB />
+  <img alt="Flask" src=https://img.shields.io/badge/Flask-000?logo=flask&logoColor=fff />
 
   <!-- Frontend Frameworks and Libraries -->
   <img alt="React" src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
@@ -83,6 +82,8 @@ Welcome to my Github page! </br> I'm Finn Cheng.
     <tr>
       <td><a href="https://github.com/ddm1293/LeetReCode"><b>LeetReCode</b></a></td>
       <td>
+          <img alt="Java" src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" />
+          <img alt="Spring Boot" src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />
           <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
           <img alt="Amazon Web Services" src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white" />
           <img alt="React" src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
